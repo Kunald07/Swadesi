@@ -40,8 +40,8 @@ const Contact = () => {
             <FaPhoneAlt className="text-2xl text-green-600 mt-1" />
             <div>
               <h4 className="text-lg font-semibold">More Information</h4>
-              <p className="text-gray-700">9322661576</p>
-              <p className="text-gray-700">9321222881</p>
+              <p className="text-gray-700">99999 00000</p>
+              <p className="text-gray-700">88888 00000</p>
             </div>
           </div>
 
